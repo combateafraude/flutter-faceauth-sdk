@@ -13,7 +13,7 @@ dependencies:
   cs_liveness_flutter:
     git:
       url: https://github.com/ClearSale/LivenessPluginFlutter.git
-      ref: 1.1.0
+      rev: 1.1.0
   http: ^0.13.5
 
 dev_dependencies:
